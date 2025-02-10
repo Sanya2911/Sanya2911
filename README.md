@@ -47,9 +47,11 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyasaeed2911/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sanya2911)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff9800?style=flat&logo=google-chrome&logoColor=white)](https://dev-portfolio-ss.vercel.app/)  
+<p align="left">
+<a href="https://www.linkedin.com/in/sanyasaeed2911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/Sanya2911" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30" width="40" /></a>
+</p>
 
 ---
 ## 📊 GitHub Stats:
