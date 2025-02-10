@@ -1,11 +1,5 @@
-# Hi there, I'm Sanya Saeed! 👋  
-
-🚀 **Aspiring Software Developer | Full-Stack Enthusiast**  
-
 <h1 align="center">Hi 👋, I'm Sanya Saeed</h1>
 <h2 align="center"><b>🚀Aspiring Software Developer | Full-Stack Enthusiast </b></h2>
-
-I’m an aspiring **software developer** with a passion for building **scalable, high-performance** applications. I enjoy crafting **user-centric solutions** using modern technologies and frameworks. From front-end interfaces to back-end logic, I love transforming ideas into impactful digital experiences.
 
 ---
 
@@ -16,7 +10,7 @@ I’m an aspiring **software developer** with a passion for building **scalable,
 🔹 Constantly learning and exploring **emerging technologies**  
 🔹 Contributing to **open-source projects** and the dev community  
 
-> Quotes I live by :
+## Quotes I live by :
 🔹 *"Strive for progress, not perfection."*
 🔹 *"Through hardships to stars!"*  
 
