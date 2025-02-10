@@ -56,11 +56,5 @@
 </p>
 
 ---
-## 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 💡 *Let’s collaborate and build something amazing together!* 🚀  
