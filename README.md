@@ -11,8 +11,8 @@
 🔹 Contributing to **open-source projects** and the dev community  
 
 ## Quotes I live by :
-🔹 *"Strive for progress, not perfection."*
-🔹 *"Through hardships to stars!"*  
+🔹 **"Strive for progress, not perfection."**
+🔹 **"Through hardships to stars!"**
 
 ---
 
