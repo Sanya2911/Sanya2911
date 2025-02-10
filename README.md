@@ -47,10 +47,12 @@
 ---
 
 ## 📫 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff9800?style=flat&logo=google-chrome&logoColor=white)](https://dev-portfolio-ss.vercel.app/)  
+ 
 <p align="left">
 <a href="https://www.linkedin.com/in/sanyasaeed2911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/Sanya2911" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30" width="40" /></a>
+<a href="https://dev-portfolio-ss.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff9800?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 ---
