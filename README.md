@@ -12,7 +12,6 @@
 
 ## Quotes I live by :
 🔹 **"Strive for progress, not perfection."**
-🔹 **"Through hardships to stars!"**
 
 ---
 
